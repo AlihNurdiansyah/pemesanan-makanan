@@ -21,7 +21,7 @@ Auth::routes(['verify' => true]);
 Route::get('/home', 'HomeController@index')->name('home');
 
 Auth::routes();
+=======
+>>>>>>> 4be5e7e973b9a547ec1c38c2da2a598e29e2af18
 
 Route::get('/home', 'HomeController@index')->name('home');
-
-
