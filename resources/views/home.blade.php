@@ -9,6 +9,16 @@
     <!-- The above 4 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
     <!-- Title  -->
+<<<<<<< HEAD
+    <title>PEMESANAN MAKANAN</title>
+
+    <!-- Favicon  -->
+    <link rel="icon" href="{{asset('assets/img/core-img/favicon.ico')}}">
+
+    <!-- Core Style CSS -->
+    <link rel="stylesheet" href="{{asset('assets/css/core-style.css')}}">
+    <link rel="stylesheet" href="{{asset('assets/style.css')}}">
+=======
     <title>Template</title>
 
     <!-- Favicon  -->
@@ -17,6 +27,7 @@
     <!-- Core Style CSS -->
     <link rel="stylesheet" href="css/core-style.css">
     <link rel="stylesheet" href="style.css">
+>>>>>>> 37983fe3af7350081827a27fb122057d1f31fe91
 
 </head>
 
@@ -32,7 +43,11 @@
                     <div class="search-content">
                         <form action="#" method="get">
                             <input type="search" name="search" id="search" placeholder="Type your keyword...">
+<<<<<<< HEAD
+                            <button type="submit"><img src="{{asset('assets/img/core-img/search.png')}}"" alt=""></button>
+=======
                             <button type="submit"><img src="img/core-img/search.png" alt=""></button>
+>>>>>>> 37983fe3af7350081827a27fb122057d1f31fe91
                         </form>
                     </div>
                 </div>
@@ -48,7 +63,11 @@
         <div class="mobile-nav">
             <!-- Navbar Brand -->
             <div class="amado-navbar-brand">
+<<<<<<< HEAD
+                <a href="index.html"><img src="{{asset('assets/img/core-img/pmblack.png')}}"" alt=""></a>
+=======
                 <a href="index.html"><img src="img/core-img/logo.png" alt=""></a>
+>>>>>>> 37983fe3af7350081827a27fb122057d1f31fe91
             </div>
             <!-- Navbar Toggler -->
             <div class="amado-navbar-toggler">
@@ -64,7 +83,11 @@
             </div>
             <!-- Logo -->
             <div class="logo">
+<<<<<<< HEAD
+                <a href="index.html"><img src="{{asset('assets/img/core-img/pmblack.png')}}"" alt=""></a>
+=======
                 <a href="index.html"><img src="img/core-img/logo.png" alt=""></a>
+>>>>>>> 37983fe3af7350081827a27fb122057d1f31fe91
             </div>
             <!-- Amado Nav -->
             <nav class="amado-nav">
@@ -76,6 +99,14 @@
                     <li><a href="checkout.html">Checkout</a></li>
                 </ul>
             </nav>
+<<<<<<< HEAD
+          
+            <!-- Cart Menu -->
+            <div class="cart-fav-search mb-100">
+                <a href="cart.html" class="cart-nav"><img src="{{asset('assets/img/core-img/cart.png')}}"" alt=""> Cart <span>(0)</span></a>
+                <a href="#" class="fav-nav"><img src="{{asset('assets/img/core-img/favorites.png')}}"" alt=""> Favourite</a>
+                <a href="#" class="search-nav"><img src="{{asset('assets/img/core-img/search.png')}}"" alt=""> Search</a>
+=======
             <!-- Button Group -->
             <div class="amado-btn-group mt-30 mb-100">
                 <a href="#" class="btn amado-btn mb-15">%Discount%</a>
@@ -86,6 +117,7 @@
                 <a href="cart.html" class="cart-nav"><img src="img/core-img/cart.png" alt=""> Cart <span>(0)</span></a>
                 <a href="#" class="fav-nav"><img src="img/core-img/favorites.png" alt=""> Favourite</a>
                 <a href="#" class="search-nav"><img src="img/core-img/search.png" alt=""> Search</a>
+>>>>>>> 37983fe3af7350081827a27fb122057d1f31fe91
             </div>
             <!-- Social Button -->
             <div class="social-info d-flex justify-content-between">
@@ -104,6 +136,17 @@
                 <!-- Single Catagory -->
                 <div class="single-products-catagory clearfix">
                     <a href="shop.html">
+<<<<<<< HEAD
+                        <img src="{{asset('assets/img/bg-img/a.jpg')}}"" alt="">
+                        <!-- Hover Content -->
+                        <div class="hover-content">
+                            <div class="line"></div>
+                            <p>Rp 3.000 | whatsapp: 08976543212</p>
+                            <h4>Samosa</h4>
+                        </div>
+                    </a>
+                </div>
+=======
                         <img src="img/bg-img/1.jpg" alt="">
                         <!-- Hover Content -->
                         <div class="hover-content">
@@ -178,16 +221,26 @@
                         </div>
                     </a>
                 </div>
+>>>>>>> 37983fe3af7350081827a27fb122057d1f31fe91
 
                 <!-- Single Catagory -->
                 <div class="single-products-catagory clearfix">
                     <a href="shop.html">
+<<<<<<< HEAD
+                        <img src="{{asset('assets/img/bg-img/b.jpg')}}"" alt="">
+                        <!-- Hover Content -->
+                        <div class="hover-content">
+                            <div class="line"></div>
+                            <p>Rp 2.000 | whatsapp: 08976543212</p>
+                            <h4>Lemper Sumedang</h4>
+=======
                         <img src="img/bg-img/7.jpg" alt="">
                         <!-- Hover Content -->
                         <div class="hover-content">
                             <div class="line"></div>
                             <p>From $318</p>
                             <h4>Metallic Chair</h4>
+>>>>>>> 37983fe3af7350081827a27fb122057d1f31fe91
                         </div>
                     </a>
                 </div>
@@ -195,12 +248,21 @@
                 <!-- Single Catagory -->
                 <div class="single-products-catagory clearfix">
                     <a href="shop.html">
+<<<<<<< HEAD
+                        <img src="{{asset('assets/img/bg-img/c.jpg')}}"" alt="">
+                        <!-- Hover Content -->
+                        <div class="hover-content">
+                            <div class="line"></div>
+                            <p>Rp 1500 | whatsapp: 08976543212</p>
+                            <h4>Putri Ayu</h4>
+=======
                         <img src="img/bg-img/8.jpg" alt="">
                         <!-- Hover Content -->
                         <div class="hover-content">
                             <div class="line"></div>
                             <p>From $318</p>
                             <h4>Modern Rocking Chair</h4>
+>>>>>>> 37983fe3af7350081827a27fb122057d1f31fe91
                         </div>
                     </a>
                 </div>
@@ -208,12 +270,86 @@
                 <!-- Single Catagory -->
                 <div class="single-products-catagory clearfix">
                     <a href="shop.html">
+<<<<<<< HEAD
+                        <img src="{{asset('assets/img/bg-img/d.jpg')}}"" alt="">
+                        <!-- Hover Content -->
+                        <div class="hover-content">
+                            <div class="line"></div>
+                            <p>Rp 1.000 | whatsapp: 08976543212</p>
+                            <h4>Kue Beras</h4>
+                        </div>
+                    </a>
+                </div>
+
+                <!-- Single Catagory -->
+                <div class="single-products-catagory clearfix">
+                    <a href="shop.html">
+                        <img src="{{asset('assets/img/bg-img/e.jpg')}}"" alt="">
+                        <!-- Hover Content -->
+                        <div class="hover-content">
+                            <div class="line"></div>
+                            <p>Rp 2.000 | whatsapp: 08976543212</p>
+                            <h4>Risoles Kabita</h4>
+                        </div>
+                    </a>
+                </div>
+
+                <!-- Single Catagory -->
+                <div class="single-products-catagory clearfix">
+                    <a href="shop.html">
+                        <img src="{{asset('assets/img/bg-img/f.jpg')}}"" alt="">
+                        <!-- Hover Content -->
+                        <div class="hover-content">
+                            <div class="line"></div>
+                            <p>Rp 5.000 | whatsapp: 08976543212</p>
+                            <h4>Puding Tahu</h4>
+                        </div>
+                    </a>
+                </div>
+
+                <!-- Single Catagory -->
+                <div class="single-products-catagory clearfix">
+                    <a href="shop.html">
+                        <img src="{{asset('assets/img/bg-img/g.jpg')}}"" alt="">
+                        <!-- Hover Content -->
+                        <div class="hover-content">
+                            <div class="line"></div>
+                            <p>Rp 7.000 | whatsapp: 08976543212</p>
+                            <h4>Batagor Juara</h4>
+                        </div>
+                    </a>
+                </div>
+
+                <!-- Single Catagory -->
+                <div class="single-products-catagory clearfix">
+                    <a href="shop.html">
+                        <img src="{{asset('assets/img/bg-img/h.jpg')}}"" alt="">
+                        <!-- Hover Content -->
+                        <div class="hover-content">
+                            <div class="line"></div>
+                            <p>Rp 15.000 | whatsapp: 08976543212</p>
+                            <h4>PIE MIX FRUITS</h4>
+                        </div>
+                    </a>
+                </div>
+
+                <!-- Single Catagory -->
+                <div class="single-products-catagory clearfix">
+                    <a href="shop.html">
+                        <img src="{{asset('assets/img/bg-img/i.jpg')}}"" alt="">
+                        <!-- Hover Content -->
+                        <div class="hover-content">
+                            <div class="line"></div>
+                            <p>Rp 1.000 | whatsapp: 08976543212</p>
+                            <h4>Uras Oncom</h4>
+=======
                         <img src="img/bg-img/9.jpg" alt="">
                         <!-- Hover Content -->
                         <div class="hover-content">
                             <div class="line"></div>
                             <p>From $318</p>
                             <h4>Home Deco</h4>
+>>>>>>> 37983fe3af7350081827a27fb122057d1f31fe91
                         </div>
                     </a>
                 </div>
@@ -223,6 +359,9 @@
     </div>
     <!-- ##### Main Content Wrapper End ##### -->
 
+<<<<<<< HEAD
+   
+=======
     <!-- ##### Newsletter Area Start ##### -->
     <section class="newsletter-area section-padding-100-0">
         <div class="container">
@@ -247,6 +386,7 @@
         </div>
     </section>
     <!-- ##### Newsletter Area End ##### -->
+>>>>>>> 37983fe3af7350081827a27fb122057d1f31fe91
 
     <!-- ##### Footer Area Start ##### -->
     <footer class="footer_area clearfix">
@@ -257,11 +397,19 @@
                     <div class="single_widget_area">
                         <!-- Logo -->
                         <div class="footer-logo mr-50">
+<<<<<<< HEAD
+                            <a href="index.html"><img src="{{asset('assets/img/core-img/pmwhite.png')}}"" alt=""></a>
+                        </div>
+                        <!-- Copywrite Text -->
+                        <p class="copywrite"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> PEMESANAN MAKANAN |STMIK SUMEDANG<i class="fa fa-heart-o" aria-hidden="true"></i> 
+=======
                             <a href="index.html"><img src="img/core-img/logo2.png" alt=""></a>
                         </div>
                         <!-- Copywrite Text -->
                         <p class="copywrite"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
 Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+>>>>>>> 37983fe3af7350081827a27fb122057d1f31fe91
 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
                     </div>
                 </div>
@@ -301,6 +449,17 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
     <!-- ##### Footer Area End ##### -->
 
     <!-- ##### jQuery (Necessary for All JavaScript Plugins) ##### -->
+<<<<<<< HEAD
+    <script src="{{asset('assets/js/jquery/jquery-2.2.4.min.js')}}"></script>
+    <!-- Popper js -->
+    <script src="{{asset('assets/js/popper.min.js')}}"></script>
+    <!-- Bootstrap js -->
+    <script src="{{asset('assets/js/bootstrap.min.js')}}"></script>
+    <!-- Plugins js -->
+    <script src="{{asset('assets/js/plugins.js')}}"></script>
+    <!-- Active js -->
+    <script src="{{asset('assets/js/active.js')}}"></script>
+=======
     <script src="js/jquery/jquery-2.2.4.min.js"></script>
     <!-- Popper js -->
     <script src="js/popper.min.js"></script>
@@ -310,6 +469,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
     <script src="js/plugins.js"></script>
     <!-- Active js -->
     <script src="js/active.js"></script>
+>>>>>>> 37983fe3af7350081827a27fb122057d1f31fe91
 
 </body>
 
